@@ -5,35 +5,35 @@ class HomePage extends StatelessWidget {
 
   static final List<Map<String, dynamic>> noticias = [
     {
-      'título': 'Nova tecnologia é lançada no mercado',
+      'titulo': 'Nova tecnologia é lançada no mercado',
       'resumo':
           'Empresa apresenta uma nova solução tecnológica para facilitar o dia a dia das pessoas.',
       'categoria': 'Tecnologia',
       'data': '06/10/2026',
     },
     {
-      'título': 'Brasil recebe novo projeto de educação',
+      'titulo': 'Brasil recebe novo projeto de educação',
       'resumo':
           'Novo projeto busca ampliar o acesso à educação e melhorar a qualidade do ensino.',
       'categoria': 'Educação',
       'data': '05/10/2026',
     },
     {
-      'título': 'Cidade inaugura novo parque público',
+      'titulo': 'Cidade inaugura novo parque público',
       'resumo':
           'Novo espaço oferece áreas de lazer, esporte e convivência para a população.',
       'categoria': 'Cidade',
       'data': '04/10/2026',
     },
     {
-      'título': 'Equipe brasileira conquista campeonato',
+      'titulo': 'Equipe brasileira conquista campeonato',
       'resumo':
           'Time brasileiro vence a competição após uma disputa emocionante na final.',
       'categoria': 'Esportes',
       'data': '03/10/2026',
     },
     {
-      'título': 'Festival cultural reúne milhares de pessoas',
+      'titulo': 'Festival cultural reúne milhares de pessoas',
       'resumo':
           'Evento apresenta música, arte e gastronomia e reúne visitantes de diversas regiões.',
       'categoria': 'Cultura',
